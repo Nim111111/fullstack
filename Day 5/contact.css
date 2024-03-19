@@ -1,0 +1,36 @@
+.insider input {
+    height: 40px;
+    border: none;
+    width:270px;
+     margin-bottom: 10px;
+     border-style: none;
+     outline: none;
+  }
+  .fi{
+      margin-right: 7%;
+  }
+  .review{
+      /* background-color: black; */
+      width: 100%;
+  }
+  .review input{
+       height: 50px;
+       width: 92%;
+       border-style: none;
+       outline: none;
+  }
+  .outsider textarea{
+      width: 88%;
+      margin-left: 4%;
+      margin-right: 100px;
+      
+  }
+
+  .homepage-image{
+    background-size: cover;
+    width:100%;
+    height:100vh;
+    justify-content:center;
+    align-items: center;
+    
+  }
